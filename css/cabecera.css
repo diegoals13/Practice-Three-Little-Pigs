@@ -1,0 +1,8 @@
+h1 {
+    position: relative;
+    max-width: 900px;
+    background-color: #f5f5dc;
+    text-align: center;
+    padding-top: 30px;
+    margin: 0 auto;
+}
